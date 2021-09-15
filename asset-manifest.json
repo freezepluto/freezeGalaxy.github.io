@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/solar/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/solar/static/js/main.ecb71054.chunk.js",
+    "main.js.map": "/solar/static/js/main.ecb71054.chunk.js.map",
+    "runtime-main.js": "/solar/static/js/runtime-main.51bcb688.js",
+    "runtime-main.js.map": "/solar/static/js/runtime-main.51bcb688.js.map",
+    "static/js/2.6615b47a.chunk.js": "/solar/static/js/2.6615b47a.chunk.js",
+    "static/js/2.6615b47a.chunk.js.map": "/solar/static/js/2.6615b47a.chunk.js.map",
+    "static/js/3.8c330bd4.chunk.js": "/solar/static/js/3.8c330bd4.chunk.js",
+    "static/js/3.8c330bd4.chunk.js.map": "/solar/static/js/3.8c330bd4.chunk.js.map",
+    "index.html": "/solar/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/solar/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6615b47a.chunk.js.LICENSE.txt": "/solar/static/js/2.6615b47a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/solar/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51bcb688.js",
+    "static/js/2.6615b47a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ecb71054.chunk.js"
+  ]
+}
